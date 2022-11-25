@@ -1,0 +1,22 @@
+﻿Question 1.1 - In your own words, list two problems that regression algorithms can be used to solve and why, based on their characteristics
+Answer
+- Regression algorithm can be used to solve the problem of predicting the temperature for any given day based on factors such as wind speed, humidity,
+and athmospheric pressure because Regression is a type of problem that use of machine learning algorithms to learn the continous mapping function.
+- Regression algorithm can be used to predict the sales revenue of a company based on previous data of sales, this would help Companies manage their budget in an easier way
+
+Question 1.2 - In your own words, List two problems that belong to classification problem and why, based on their characteristics.
+Answer
+- Classifying if an identity is spam to prevent getting scammed with a trained machine learning model to identify spam emails based on email, language/content.
+- Classifying documents in different categories based on the classification model function that maps from a document to a category label.
+
+Question 1.3 - In your own words, List two problems that can be solved by using clustering algorithm(s) and why, based on their characteristics.
+Answer
+- Identifying fraudlent activities with the use of clustering algorithms such as GPS logs, which is used to group similar behaviors. based on characteristics
+it will offer protection and enable anyone to differentiate the real and the fake.
+- With the K-means Clustering, you can predict the best players for your fantansy team based on player performances to improve chances of winning more points and rewards 
+
+Question 1.4 - In your own words, what is anomaly detection?
+Answer
+Anomaly detection is the process of identifying data points, events, or observations that deviates from a dataset's normal behaviour. It is the identification of
+unexpected events that difer from the norm.
+
