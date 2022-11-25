@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mudiaga-Otojareri_Exercise01", "Mudiaga-Otojareri_COMP212_Sec005_Lab05\Mudiaga-Otojareri_Exercise01.csproj", "{EF095317-C966-4510-BB60-93A9D5B2088B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudiagaOtojareri_Exercise02", "MudiagaOtojareri_Exercise02\MudiagaOtojareri_Exercise02.csproj", "{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudiagaOtojareri_Exercise03", "Mudiaga-Otojaareri_Exercise03\MudiagaOtojareri_Exercise03.csproj", "{7AFC20C6-4274-4939-BB4A-156AF506A326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		New solution platform|Any CPU = New solution platform|Any CPU
+		New solution platform|x64 = New solution platform|x64
+		New solution platform|x86 = New solution platform|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Debug|x64.ActiveCfg = Debug|x64
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Debug|x64.Build.0 = Debug|x64
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Debug|x86.ActiveCfg = Debug|x64
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Debug|x86.Build.0 = Debug|x64
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.New solution platform|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.New solution platform|Any CPU.Build.0 = Debug|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.New solution platform|x64.ActiveCfg = Debug|x64
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.New solution platform|x64.Build.0 = Debug|x64
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.New solution platform|x86.ActiveCfg = Release|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.New solution platform|x86.Build.0 = Release|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Release|x64.ActiveCfg = Release|x64
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Release|x64.Build.0 = Release|x64
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Release|x86.ActiveCfg = Release|Any CPU
+		{EF095317-C966-4510-BB60-93A9D5B2088B}.Release|x86.Build.0 = Release|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Debug|x64.ActiveCfg = Debug|x64
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Debug|x64.Build.0 = Debug|x64
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Debug|x86.ActiveCfg = Debug|x64
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Debug|x86.Build.0 = Debug|x64
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.New solution platform|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.New solution platform|Any CPU.Build.0 = Debug|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.New solution platform|x64.ActiveCfg = New solution platform|x64
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.New solution platform|x64.Build.0 = New solution platform|x64
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.New solution platform|x86.ActiveCfg = New solution platform|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.New solution platform|x86.Build.0 = New solution platform|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Release|x64.ActiveCfg = Release|x64
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Release|x64.Build.0 = Release|x64
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Release|x86.ActiveCfg = Release|Any CPU
+		{D8F07736-29CC-40E7-BF7B-348F7D81E4E2}.Release|x86.Build.0 = Release|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Debug|x64.Build.0 = Debug|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Debug|x86.ActiveCfg = Debug|x86
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Debug|x86.Build.0 = Debug|x86
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.New solution platform|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.New solution platform|Any CPU.Build.0 = Debug|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.New solution platform|x64.ActiveCfg = Debug|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.New solution platform|x64.Build.0 = Debug|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.New solution platform|x86.ActiveCfg = Debug|x86
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.New solution platform|x86.Build.0 = Debug|x86
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Release|x64.ActiveCfg = Release|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Release|x64.Build.0 = Release|Any CPU
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Release|x86.ActiveCfg = Release|x86
+		{7AFC20C6-4274-4939-BB4A-156AF506A326}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5083E83-70F8-40D2-B26D-D45EA66C6ED5}
+	EndGlobalSection
+EndGlobal
